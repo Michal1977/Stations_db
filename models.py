@@ -18,4 +18,3 @@ def import_data(csv_file):
 
 
 
-

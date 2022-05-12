@@ -2,7 +2,7 @@ import cur as cur
 import sqlalchemy
 from sqlalchemy import create_engine
 from sqlalchemy import Table, Column, Integer, String, MetaData, Float, Date
-from models import import_data
+from models import import_d
 
 
 stations_data = import_data('clean_stations.csv')
